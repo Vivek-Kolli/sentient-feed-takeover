@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/generate/route.js": {
+      "maxDuration": 20
+    }
+  }
+}
